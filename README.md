@@ -2,7 +2,7 @@
 PyTorch implementation of [Hot Topic-Aware Retweet Prediction with Masked Self-attentive Model]<!--(http://jkx.fudan.edu.cn/~qzhang/paper/sigir2018.pdf)-->
    
    
-![image](https://github.com/fduMark/AUT-MSAM/raw/master/model.pdf)
+![image](https://github.com/fduMark/AUT-MSAM/raw/master/model.jpg)
    
 # Requirements
 + Python 3.6
